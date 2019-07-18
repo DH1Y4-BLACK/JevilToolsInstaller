@@ -24,7 +24,6 @@ echo $i  "TOOLS    : KAGAK JELAS MAKLUMKAN YANG BUAT JEVIL"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
-GNU nano 4.3                    JevilTools.sh
 echo "###DAFTAR TOOLS###"
 echo
 echo $cy "[1]"$bi" Brute Force Facebook"
