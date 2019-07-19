@@ -174,6 +174,7 @@ if [ $pil = 14 ]
 then
 clear
 git clone https://github.com/404rgr/webdav77
+cd webdav77
 chmod +x *
 ./install.sh
 bash webdav77.sh
@@ -183,7 +184,7 @@ if [ $pil = 15 ]
 then
 git clone https://github.com/FR13ND8/ProfileGuardFb
 cd ProfileGuardFb
-php Guard.php
+php guard.php
 fi
 
 if [ $pil = 66 ]
