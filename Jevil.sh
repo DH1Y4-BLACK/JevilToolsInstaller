@@ -66,6 +66,8 @@ echo $cy "[19]"$cy" Spam Call"
 echo "=================================================="
 echo $cy "[20]"$bi"  CCTV Jevil ( Masih 30% ) "
 echo "=================================================="
+echo $cy "[21]"me"  Ddos Jevil ( Beta )
+echo "=================================================="
 echo $cy "[66]"$me" EXIT"
 echo "=================================================="
 echo
@@ -241,6 +243,19 @@ then
 git clone https://github.com/Jevil36239/JevilCCTV
 cd JevilCCTV
 sh tvjev.sh
+fi
+
+if [ $pil = 21 ]
+then
+apt upgrade
+apt update
+pkg install git
+pkg install python
+pkg install python2
+pkg install git
+git clone https://github.com/Jevil36239/JevilDdos
+cd JevilDdos
+python2 JevilDdos.py
 fi
 
 if [ $pil = 66 ]
