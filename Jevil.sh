@@ -26,8 +26,6 @@ sleep 1
 echo $i  "TOOLS    : KAGAK JELAS MAKLUMKAN YANG BUAT JEVIL"
 sleep 1
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-GNU nano 4.3                    JevilTools.sh
-echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
 echo
 echo "###DAFTAR TOOLS###"
@@ -85,7 +83,6 @@ echo "=================================================="
 echo $cy "[26]"$bi" Web Vuln Scanner"
 echo "=================================================="
 echo $cy "[27]"$me"  Deface Website"
-U nano 4.3                    JevilTools.sh
 echo "=================================================="
 echo $cy "[28]"$ku" Deface Tebas Index ( Ada Passwordnya )"
 echo "=================================================="
